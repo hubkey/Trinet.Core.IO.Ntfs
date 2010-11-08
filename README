@@ -1,0 +1,6 @@
+Trinet.Core.IO.Ntfs
+===================
+
+A port of Richard Deeming's NTFS alternative data streams classes.
+
+See: http://www.codeproject.com/KB/cs/ntfsstreams.aspx

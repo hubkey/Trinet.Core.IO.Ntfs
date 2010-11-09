@@ -20,7 +20,7 @@ namespace NTFS.Test
 
 		static void TestStream() 
 		{
-			const string IMAGE_FILE = @"test.jpg";
+			const string IMAGE_FILE = @"..\..\test.jpg";
 			const string THUMB_STREAM = "thumb";
 
 			//List all of the alternative streams for the file:
